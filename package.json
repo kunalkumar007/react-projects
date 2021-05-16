@@ -3,7 +3,8 @@
 	"private": true,
 	"scripts": {
 		"build:mario": "lerna run build --scope={mario-plan}",
-		"build:cybuzz": "lerna run build --scope=cybuzz"
+		"build:cybuzz": "lerna run build --scope=cybuzz",
+		"buildCybuzz": "npm --prefix packages/cybuz-technologies run build"
 	},
 	"devDependencies": {
 		"lerna": "^4.0.0"
