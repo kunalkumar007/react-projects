@@ -4,7 +4,7 @@
 	"scripts": {
 		"build:mario": "lerna run build --scope={mario-plan}",
 		"build:cybuzz": "lerna run build --scope=cybuzz",
-		"buildCybuzz": "npm --prefix packages/cybuz-technologies run build"
+		"build:mario1": " cd packages/cybuz-technologies && yarn build"
 	},
 	"devDependencies": {
 		"lerna": "^4.0.0"
