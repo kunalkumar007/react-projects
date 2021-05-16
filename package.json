@@ -1,6 +1,10 @@
 {
 	"name": "root",
 	"private": true,
+	"scripts": {
+		"build:mario": "lerna run build --scope={mario-plan}",
+		"build:cybuzz": "lerna run build --scope=cybuzz"
+	},
 	"devDependencies": {
 		"lerna": "^4.0.0"
 	}
