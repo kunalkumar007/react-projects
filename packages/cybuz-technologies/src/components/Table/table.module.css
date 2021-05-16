@@ -1,0 +1,11 @@
+.thead {
+	background: #ccc;
+	width: 100%;
+}
+.tr {
+	padding: 5rem;
+}
+.table {
+	padding: 1rem;
+	width: 100%;
+}

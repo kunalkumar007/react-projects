@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nixie+One&display=swap');
+
+.footerContainer {
+	position: absolute;
+	bottom: 0;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.socialLinksContainer {
+	font-size: 2rem;
+	padding: 2rem;
+	font-family: 'Nixie One', cursive;
+}
+
+.socialLinks {
+	text-decoration: none;
+	color: white;
+	padding: 2rem;
+}
+
+.copyright {
+	color: white;
+}
+
+.socialLinks1 {
+}
+.socialLinks2 {
+}
+.socialLinks3 {
+}

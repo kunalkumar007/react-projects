@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+
+.container {
+	position: relative;
+  width: 100%;
+	height: 100vh;
+	background-image: url(../../assets/background.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	/* border: 2px solid red; */
+}
+
+.banner {
+	position: absolute;
+	top: 49vh;
+	left: 50vw;
+	transform: translate(-50%, -50%);
+}
+
+.bannerText {
+	font-size: 20rem;
+	color: white;
+	font-family: 'Nosifer', cursive;
+}
