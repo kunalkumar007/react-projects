@@ -1,0 +1,36 @@
+.App {
+	color: white;
+	display: flex;
+}
+
+.container {
+	flex: 1;
+}
+
+.heading {
+	font-family: 'Mate SC', serif;
+	font-weight: lighter;
+	font-size: 2rem;
+	/* border: 2px solid red; */
+	padding: 2rem;
+}
+
+.editorInput {
+	background: transparent;
+	width: 90%;
+	color: white;
+	min-height: 50vh;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: large;
+	/* border: 2px solid green; */
+	margin-left: 1rem;
+}
+
+.markdownOutput {
+	color: wheat;
+	background: #464646;
+	width: 97%;
+	min-height: 50vh;
+  font-family: 'Rajdhani', sans-serif;
+	/* border: 2px solid red; */
+}
