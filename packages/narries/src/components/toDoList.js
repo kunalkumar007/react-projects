@@ -1,17 +1,9 @@
-import React, { useState } from 'react';
+import React from 'react';
 
-const ToDoList = () => {
-	const tasks = localStorage.getItem('tasks') || '[]';
-	const [key, setkey] = useState({});
-	const todo = JSON.parse(tasks);
-	console.log(todo);
-	const remove = (e) => {
-		console.log(e);
-		setkey(e.id);
-	};
+const ToDoList = ({ tasks, remove }) => {
 	return (
 		<div className="child-borders">
-			{todo.map((task, id) => {
+			{tasks.map((task, id) => {
 				return (
 					<div
 						className={
@@ -19,8 +11,8 @@ const ToDoList = () => {
 							(task.completed ? 'background-primary' : 'shadow shadow-hover')
 						}
 						key={id}
-						onClick={() => remove(task)}
-						// style={completed ? { textDecoration: 'line-through' } : {}}
+						style={task.completed ? { textDecoration: 'line-through' } : {}}
+						onClick={() => remove(id)}
 					>
 						{task.text}
 					</div>

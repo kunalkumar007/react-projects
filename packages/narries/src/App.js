@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import './App.css';
 import AddToDo from './components/addToDo';
 import Filter from './components/Filter';
@@ -11,9 +11,22 @@ function App() {
 	const [tasks, settasks] = useState([]);
 	const handleChange = (e) => setvalue(e.target.value);
 	const handleTasks = (val) => {
-		tasks.push({ text: val, completed: false, id: window.id++ });
-		settasks(tasks);
-		localStorage.setItem('tasks', JSON.stringify(tasks));
+		let customTask = { text: val, completed: false, id: window.id++ };
+		settasks((task) => [...task, customTask]);
+	};
+	const handleCleartasks = () => {
+		settasks([]);
+		window.location.reload();
+	};
+	const handleClick = (id) => {
+		console.log(id);
+		let modifiedTasks = tasks.map((task) => {
+			if (task.id === id) {
+				return Object.assign({}, task, { completed: !task.completed });
+			}
+			return task;
+		});
+		settasks(modifiedTasks);
 	};
 
 	return (
@@ -21,8 +34,8 @@ function App() {
 			<div className="border border-primary padding-large margin-large no-responsive paper">
 				<h3>Narries ToDo</h3>
 				<AddToDo onChange={handleChange} value={value} onAdd={handleTasks} />
-				<ToDoList tasks={tasks} />
-				<Filter />
+				<ToDoList tasks={tasks} remove={handleClick} />
+				<Filter onClear={handleCleartasks} />
 			</div>
 		</div>
 	);
