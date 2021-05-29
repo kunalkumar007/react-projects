@@ -20,7 +20,6 @@ function App() {
 		<div className="row flex-center flex-middle flex">
 			<div className="border border-primary padding-large margin-large no-responsive paper">
 				<h3>Narries ToDo</h3>
-				{/* <AddToDo Todos={handleToDosArray} /> */}
 				<AddToDo onChange={handleChange} value={value} onAdd={handleTasks} />
 				<ToDoList tasks={tasks} />
 				<Filter />
