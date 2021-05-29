@@ -1,0 +1,11 @@
+.paper {
+	background-color: white;
+	width: 480px;
+}
+
+.flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 98vh;
+}
