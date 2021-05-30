@@ -9,9 +9,7 @@ export default function markdownEditor(props) {
 	return (
 		<div className="container">
 			<h1 className="heading">Markdown</h1>
-			<div className="markdownOutput" dangerouslySetInnerHTML={createMarkup()}>
-				{/* {md.render(props.data)} */}
-			</div>
+			<div className="markdownOutput" dangerouslySetInnerHTML={createMarkup()}></div>
 		</div>
 	);
 }
