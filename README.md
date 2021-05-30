@@ -7,10 +7,8 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
+*** kunalkumar007, react-projects, kunal.developer, kunalinbox83@gmail.com, React Projects, Here you will find all the projects made by me.
 -->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -20,39 +18,33 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/kunalkumar007/react-projects">
+    <img src="https://cdn.pixabay.com/photo/2016/10/25/01/07/inaction-1767700_960_720.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">React Projects</h3>
 
   <p align="center">
-    project_description
+    Here you will find all the projects made by me.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/kunalkumar007/react-projects"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/kunalkumar007/react-projects">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/kunalkumar007/react-projects/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/kunalkumar007/react-projects/issues">Request Feature</a>
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -80,69 +72,53 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+Here I am showcasing my all Projects that I have built over the time till now. All these projects are based on React. Hope you like it.
 
+Why I Created this Repository.
+
+Here's why:
+
+-   Your time should be focused on creating something amazing. A project that solves a problem and helps others
+-   You shouldn't be doing the same tasks over and over.
+-   You should element DRY principles to the rest of your life :smile:
 
 ### Built With
 
-* []()
-* []()
-* []()
-
-
+-   [Reactjs](https://reactjs.org/)
+-   [JEST](https://jestjs.io/)
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Before Using the Repo. make sure you install these system requirements:-
+
+-   Npm
+-   Nodejs
 
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
+    ```sh
+    git clone https://github.com/kunalkumar007/react-projects.git
+    ```
 2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
+    ```sh
+    npm install
+    ```
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -153,46 +129,29 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Instagram - [@kunal.developer](https://instagram.com/kunal.developer) - kunalinbox83@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
+Project Link: [https://github.com/kunalkumar007/react-projects](https://github.com/kunalkumar007/react-projects)
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+
+[contributors-shield]: https://img.shields.io/github/repo-size/kunalkumar007/react-projects?style=for-the-badge
+[contributors-url]: https://github.com/kunalkumar007/react-projects/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/kunalkumar007/react-projects?style=for-the-badge
+[license-url]: https://github.com/kunalkumar007/react-projects/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/kunalkumar007
+[product-screenshot]: https://media.istockphoto.com/vectors/young-programmer-coding-a-new-project-vector-id513544018?k=6&m=513544018&s=612x612&w=0&h=tMxVCqOT1Z9uqpIKzIbO0QgkZKFP8tL7l2c0e-3PdJ8=
