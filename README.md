@@ -27,7 +27,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kunalkumar007/react-projects">
-    <img src="https://cdn.pixabay.com/photo/2016/10/25/01/07/inaction-1767700_960_720.jpg" alt="Logo" width="80" height="80">
+    <img src="./images/react.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">React Projects</h3>
