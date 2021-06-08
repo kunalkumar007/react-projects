@@ -76,7 +76,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://kunalkumar007.gihtub.io)
+
+<div align="center"> Illustration by <a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a></div>
 
 Here I am showcasing my all Projects that I have built over the time till now. All these projects are based on React. Hope you like it.
 
@@ -154,4 +156,4 @@ Project Link: [https://github.com/kunalkumar007/react-projects](https://github.c
 [license-url]: https://github.com/kunalkumar007/react-projects/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/kunalkumar007
-[product-screenshot]: https://media.istockphoto.com/vectors/young-programmer-coding-a-new-project-vector-id513544018?k=6&m=513544018&s=612x612&w=0&h=tMxVCqOT1Z9uqpIKzIbO0QgkZKFP8tL7l2c0e-3PdJ8=
+[product-screenshot]: ./images/banner.png
