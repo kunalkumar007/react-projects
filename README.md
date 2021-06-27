@@ -63,9 +63,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#projects">Projects</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -86,14 +85,14 @@ Why I Created this Repository.
 
 Here's why:
 
--   Your time should be focused on creating something amazing. A project that solves a problem and helps others
--   You shouldn't be doing the same tasks over and over.
--   You should element DRY principles to the rest of your life :smile:
+- Your time should be focused on creating something amazing. A project that solves a problem and helps others
+- You shouldn't be doing the same tasks over and over.
+- You should element DRY principles to the rest of your life :smile:
 
 ### Built With
 
--   [Reactjs](https://reactjs.org/)
--   [JEST](https://jestjs.io/)
+- [Reactjs](https://reactjs.org/)
+- [JEST](https://jestjs.io/)
 
 <!-- GETTING STARTED -->
 
@@ -105,19 +104,25 @@ To get a local copy up and running follow these simple steps.
 
 Before Using the Repo. make sure you install these system requirements:-
 
--   Npm
--   Nodejs
+- Npm
+- Nodejs
 
 ### Installation
 
 1. Clone the repo
-    ```sh
-    git clone https://github.com/kunalkumar007/react-projects.git
-    ```
+   ```sh
+   git clone https://github.com/kunalkumar007/react-projects.git
+   ```
 2. Install NPM packages
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm install
+   ```
+
+## Projects
+
+1. Artile(A Advice App for you) :- https://artile.netlify.app/
+2. Cowin (Covid 19 Tracker App) :- https://covi-tracker-19.netlify.app/
+3. LazyBox (Random Text generator ):- 
 
 <!-- CONTRIBUTING -->
 
