@@ -122,7 +122,7 @@ Before Using the Repo. make sure you install these system requirements:-
 
 1. Artile(A Advice App for you) :- https://artile.netlify.app/
 2. Cowin (Covid 19 Tracker App) :- https://covi-tracker-19.netlify.app/
-3. LazyBox (Random Text generator ):- 
+3. baconipsumgeneratorapp (Random Text generator ):- https://baconipsumgeneratorapp.netlify.app/
 
 <!-- CONTRIBUTING -->
 
