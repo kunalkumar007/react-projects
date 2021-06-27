@@ -120,9 +120,13 @@ Before Using the Repo. make sure you install these system requirements:-
 
 ## Projects
 
-1. Artile(A Advice App for you) :- https://artile.netlify.app/
-2. Cowin (Covid 19 Tracker App) :- https://covi-tracker-19.netlify.app/
-3. baconipsumgeneratorapp (Random Text generator ):- https://baconipsumgeneratorapp.netlify.app/
+- Artile(A Advice App for you) :- https://artile.netlify.app/
+- Cowin (Covid 19 Tracker App) :- https://covi-tracker-19.netlify.app/
+- baconipsumgeneratorapp (Random Text generator ):- https://baconipsumgeneratorapp.netlify.app/
+- chancy (MarkDown Editor ) :- https://chancy.netlify.app/
+- Flater (WildFire Tracker) - https://flater.netlify.app/
+- Inver (Expense tracker App) :- https://inver-react.netlify.app/
+- Narries (to Do List) :- https://narries.netlify.app/
 
 <!-- CONTRIBUTING -->
 
